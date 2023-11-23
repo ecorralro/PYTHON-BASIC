@@ -26,7 +26,7 @@ class Person:
         self.__name = name  # Propiedad privada
 
     def get_name(self):
-        return self.__name
+        return self.__name # Forma de acceder a una propiedad privada, == getter
 
     def walk(self):
         print(f"{self.full_name} está caminando")
