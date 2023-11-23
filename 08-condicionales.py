@@ -25,7 +25,7 @@ print("La ejecución continúa")
 
 # Condicional con ispección de valor
 
-my_string = "Mi cadena de textoooooo"
+my_string = ""
 
 if not my_string:
     print("Mi cadena de texto es vacía")
